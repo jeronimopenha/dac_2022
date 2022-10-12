@@ -1,0 +1,3 @@
+[submodule "traversal_project"]
+	path = traversal_project
+	url = https://github.com/jeronimopenha/traversal_project.git
