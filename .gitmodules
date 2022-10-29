@@ -4,3 +4,6 @@
 [submodule "asynchronous_dataflow"]
 	path = asynchronous_dataflow
 	url = https://github.com/jeronimopenha/asynchronous_dataflow.git
+[submodule "cpu_mapping"]
+	path = cpu_mapping
+	url = https://github.com/canesche/cpu_mapping.git
