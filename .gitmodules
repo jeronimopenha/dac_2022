@@ -1,3 +1,6 @@
 [submodule "traversal_project"]
 	path = traversal_project
 	url = https://github.com/jeronimopenha/traversal_project.git
+[submodule "asynchronous_dataflow"]
+	path = asynchronous_dataflow
+	url = https://github.com/jeronimopenha/asynchronous_dataflow
